@@ -1,0 +1,195 @@
+{
+    "donations": [
+        {
+            "name": "ahbap",
+            "link": "https://ahbap.org/bagisci-ol",
+            "lang": "TR",
+            "options": [
+                "bank"
+            ]
+        },
+        {
+            "name": "ahbap",
+            "link": "https://ahbap.org/disasters-turkey",
+            "lang": "EN",
+            "options": [
+                "bank"
+            ]
+        },
+        {
+            "name": "ahbap Kart",
+            "link": "https://ahbap.org/bagis-kategorisi/5",
+            "lang": "TR",
+            "options": [
+                "card"
+            ]
+        },
+        {
+            "name": "ahbap Kripto",
+            "link": "https://crypto.ahbap.org/tr",
+            "lang": "TR",
+            "options": [
+                "crypto"
+            ]
+        },
+        {
+            "name": "ahbap Crypto",
+            "link": "https://crypto.ahbap.org/en",
+            "lang": "EN",
+            "options": [
+                "crypto"
+            ]
+        },
+        {
+            "name": "Das Rote Kreuz",
+            "link": "https://participate.roteskreuz.at/erdbeben-in-syrien-und-tuerkei/",
+            "lang": "DE",
+            "options": [
+                "card",
+                "bank",
+                "paypal"
+            ]
+        },
+        {
+            "name": "Aktion Deutschland Hilft",
+            "link": "https://www.aktion-deutschland-hilft.de/de/spenden/spenden/?no_cache=1&fb_item_id=55432",
+            "lang": "DE",
+            "options": [
+                "bank",
+                "paypal",
+                "card",
+                "sofort",
+                "amazon"
+            ]
+        },
+        {
+            "name": "Aktion Deutschland Hilft",
+            "link": "https://www.aktion-deutschland-hilft.de/en/donate/donate/?no_cache=1&fb_item_id=55436",
+            "lang": "EN",
+            "options": [
+                "card",
+                "paypal",
+                "klarna",
+                "card",
+                "amazon"
+            ]
+        },
+        {
+            "name": "AFAD",
+            "link": "https://www.afad.gov.tr/depremkampanyasi2",
+            "lang": "TR",
+            "options": [
+                "phone",
+                "bank",
+                "crypto"
+            ]
+        },
+        {
+            "name": "AFAD",
+            "link": "https://en.afad.gov.tr/earthquake-humanitarian-aid-campaign",
+            "lang": "EN",
+            "options": [
+                "bank",
+                "phone"
+            ]
+        },
+        {
+            "name": "Kızılay",
+            "link": "https://www.kizilay.org.tr/Bagis/BagisYap/404/pazarcik-depremi-bagisi",
+            "lang": "TR",
+            "options": [
+                "bank",
+                "card",
+                "sofort",
+                "giropay",
+                "bkm",
+                "phone"
+            ]
+        },
+        {
+            "name": "Kızılay",
+            "link": "https://www.kizilay.org.tr/Bagis/BagisYap/405/donations-for-earthquake-in-pazarcik",
+            "lang": "EN",
+            "options": [
+                "bank",
+                "card",
+                "sofort",
+                "giropay",
+                "bkm",
+                "phone"
+            ]
+        },
+        {
+            "name": "Unicef",
+            "link": "https://bagis.unicefturk.org/guneydogudepremi",
+            "lang": "TR",
+            "options": [
+                "card",
+                "bkm",
+                "bank"
+            ]
+        },
+        {
+            "name": "Unicef",
+            "link": "https://bagis.unicefturk.org/turkiye_earthquake",
+            "lang": "EN",
+            "options": [
+                "card",
+                "bkm",
+                "bank"
+            ]
+        },
+        {
+            "name": "IFRC",
+            "link": "https://donation.ifrc.org/?campaign=f3cfd66a-0ba7-ed11-a2da-005056010028",
+            "lang": "EN",
+            "options": [
+                "card"
+            ]
+        },
+        {
+            "name": "DEC",
+            "link": "https://donation.dec.org.uk/turkey-syria-earthquake-appeal",
+            "lang": "EN",
+            "options": [
+                "card",
+                "paypal"
+            ]
+        },
+        {
+            "name": "Caritas Australia",
+            "link": "https://www.caritas.org.au/donate/emergency-appeals/turkey-and-syria-earthquake/",
+            "lang": "EN",
+            "options": [
+                "card",
+                "paypal"
+            ]
+        },
+        {
+            "name": "CARE Australia",
+            "link": "https://www.care.org.au/appeals/turkiye-syria-earthquake/",
+            "lang": "EN",
+            "options": [
+                "phone"
+            ]
+        },
+        {
+            "name": "GlobalGiving",
+            "link": "https://www.globalgiving.org/projects/turkey-earthquake-relief-fund/",
+            "lang": "EN",
+            "options": [
+                "card",
+                "paypal"
+            ]
+        },
+        {
+            "name": "ActionAid UK",
+            "link": "https://www.actionaid.org.uk/donate/emergency/dec-turkey-syria-earthquake-appeal",
+            "lang": "EN",
+            "options": [
+                "card",
+                "paypal"
+            ]
+        }
+    ]
+}

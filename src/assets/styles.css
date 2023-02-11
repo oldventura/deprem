@@ -1,0 +1,85 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css");
+
+html {
+    margin: 0;
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    height: 100%;
+}
+
+#app {
+    background-color: #1a1a1f;
+}
+
+.fit {
+    height: 100%;
+    width: 100%;
+}
+
+.donations-card {
+    background-color: transparent;
+}
+
+.bg-navbar {
+    background-color: #111016;
+}
+
+.bg-footer {
+    background-color: #111016;
+}
+
+.dropdown-item {
+    cursor: pointer;
+}
+
+.flex-view {
+    flex: 1 1 auto;
+    overflow: auto;
+}
+
+.static-view {
+    flex: 0 1;
+}
+
+.contact {
+    cursor: pointer;
+}
+
+.contact:hover {
+    text-decoration: underline;
+}
+
+.page {
+    height: 100vh;
+    /* Fallback for browsers that do not support Custom Properties */
+    height: calc(var(--vh, 1vh) * 100);
+}
+
+.img-share-1 {
+    width: 400px;
+    height: 400px;
+    background-color: #DC0A16;
+    z-index: 1;
+}
+
+.img-share-2 {
+    width: 375px;
+    height: 375px;
+    z-index: 2;
+    position: relative;
+}
+
+canvas {
+    max-width: 100%;
+    height: auto;
+    aspect-ratio: 1/1;
+    object-fit: contain;
+    display: flex;
+}
+
+#photo {
+    position: fixed;
+}
